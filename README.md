@@ -14,3 +14,5 @@ Supports:
 - Infusion rate limitation
 - Custom simulation step time
 - Fast-mode and real-time mode simulation 
+
+<img width="1396" height="804" alt="Screenshot 2026-03-28 at 3 42 04 PM" src="https://github.com/user-attachments/assets/899edb3d-ede8-42af-ade3-8d0859106d78" />
